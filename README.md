@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Eduardo👋
 
-- 🔭 Hoje Estudo Sistemas de Informação 4/8
+- 🔭 Hoje Estudo Sistemas de Informação 7/8
 - 🌱 Estudando Python - HTML5 - CSS - JAVASCRIPT
 -->
 
