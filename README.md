@@ -1,7 +1,7 @@
-## Olá! Eu sou o Luiz Eduardo👋
+## Hello! I'm Luiz Eduardo👋
 
-- 🔭 Graduando em Sistemas de Informação 7/8
-- 🌱 Estudando JavaScript
+- 🔭 Bachelor's Degree in Information Systems
+- 🌱 Learning JavaScript
 -->
 
 <div>
