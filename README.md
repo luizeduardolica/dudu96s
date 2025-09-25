@@ -1,32 +1,58 @@
-## Hello! I'm Luiz Eduardo👋
+# 👋 Hi, I'm Luiz Eduardo!
 
-- 🔭 Bachelor's Degree in Information Systems
-- 🌱 Learning JavaScript
--->
+Welcome to my GitHub! I'm a **Web Developer** passionate about building and maintaining institutional and e-commerce websites using WordPress. With a degree in **Information Systems** from Estácio and 29 years of life experience, I'm always looking to expand my skills and professional horizons.
 
-<div>
-  <a href="https://github.com/luizeduardolica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudu96s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu96s&layout=compact&langs_count=7&theme=radical"/>
-</div><div style="display: inline_block"><br>
-  <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dudu-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Dudu-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Dudu-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Dudu-Woocommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
-  <img align="center" alt="Dudu-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Dudu-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+---
 
-###
+## 🚀 What I Do
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCmwVMAODJLHs4I71tiL2XRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luizeduardolica" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/dudu96s" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizeduardolimacarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizeduardolima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/CompetitiveLin/Snake-in-Contribution-Grid)
- 
-</div>
+- **Web Development**: Creating and maintaining websites, especially on the WordPress platform.
+- **Frontend Skills**: Experienced with HTML, CSS, JavaScript, and Elementor.
+- **Programming Enthusiast**: Constantly learning, with a particular focus on deepening my JavaScript expertise.
+- **Python Hobbyist**: Building programs and tools for editing soccer games (PlayStation 2) and Blender.
+
+---
+
+## 🛠️ Main Technologies
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
+---
+
+## 🌟 Featured Projects
+
+- [Transfermarkt TMRV Addon](https://github.com/luizeduardolica/transfermarkt_tmrv_addon)
+- [Rename Kits Subfolders](https://github.com/luizeduardolica/rename_kits_subfolders)
+- [PES Data Base Generator](https://github.com/luizeduardolica/PES-Data-Base-Generator-main)
+- [Player Editor](https://github.com/luizeduardolica/player_editor)
+- [Kits PES13 to JL2010CC](https://github.com/luizeduardolica/kitspes13tojl2010cc)
+
+Check out these projects for tools and resources related to soccer games and kit editing!
+
+---
+
+## 🎲 Trivia
+
+- ⚽ I love creating and editing soccer games for PlayStation 2.
+- 🐍 Python is my favorite language for personal projects and automation.
+- 🛠️ I experiment with Blender for 3D modeling and game assets.
+- 📚 Lifelong learner: I'm always studying new tech and best practices.
+- 🌍 Fluent in **Portuguese** and **Spanish**; currently studying **English**.
+
+---
+
+## 📫 Contact Me
+
+- **Email:** luizeduardolica@gmail.com
+- **LinkedIn:** [linkedin.com/in/luizeduardolima](https://www.linkedin.com/in/luizeduardolima)
+
+Feel free to connect or reach out if you’d like to collaborate or just chat about tech, soccer games, or anything else!
+
+---
+
+*Thanks for visiting my profile! 🚀*
