@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luiz Eduardo!
 
-Welcome to my GitHub! I'm a **Web Developer** passionate about building and maintaining institutional and e-commerce websites using WordPress. With a degree in **Information Systems** from Estácio and 29 years of life experience, I'm always looking to expand my skills and professional horizons.
+Welcome to my GitHub! I'm a **Web Developer** passionate about building and maintaining institutional and e-commerce websites using WordPress. With a degree in **Information Systems** from Estácio University and 29 years of life experience, I'm always looking to expand my skills and professional horizons.
 
 ---
 
